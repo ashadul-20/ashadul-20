@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am Sk Ashadul Islam , currently a first year btech student. I've have knowledge of Java , C , Html , Css and Javascript, 
+🎓 First-year B.Tech student | 💻 Java • C • HTML • CSS • JavaScript
+🎮 Aspiring Game Developer | 🚀 Learning & building every day
+
 
 
 ## 🌐 Socials:
