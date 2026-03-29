@@ -1,5 +1,4 @@
 # 💫 About Me:
-🎓 First-year B.Tech student | 💻 Java • C • HTML • CSS • JavaScript
 🎮 Aspiring Game Developer | 🚀 Learning & building every day
 
 
