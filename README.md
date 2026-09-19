@@ -43,7 +43,7 @@ A scroll-animation showcase project focused on bringing web pages to life throug
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  <a href="YOUR-VERCEL-URL-HERE"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://vercel.com/ashadul-20"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&logoSize=auto"/></a>
 </p>
 
 ---
