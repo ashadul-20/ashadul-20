@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ashadul 👋</h1>
+# <h1 align="center">Hi, I'm Ashadul 👋</h1>
 
 <h3 align="center">CS Student · Full-Stack + AI Developer</h3>
 
@@ -23,9 +23,11 @@ I'm a CS student and self-directed developer who builds practical, real-world to
 ### 🚀 Featured Projects
 
 **[YouTube-Extension](https://github.com/ashadul-20/Youtube-Extension)**
+
 A Chrome extension (Manifest V3) that adds visible **−10 / +10 second** skip buttons directly to the YouTube desktop video player — filling a gap YouTube doesn't natively offer, unlike some other streaming platforms. Built primarily with JavaScript.
 
 **[WOW](https://github.com/ashadul-20/WOW)**
+
 A scroll-animation showcase project focused on bringing web pages to life through smooth, scroll-triggered effects. WOW explores how motion and timing on scroll can make a static page feel dynamic and interactive, built with HTML and CSS-driven animation techniques.
 
 ---
@@ -44,6 +46,17 @@ A scroll-animation showcase project focused on bringing web pages to life throug
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   <a href="https://vercel.com/ashadul-20"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&logoSize=auto"/></a>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </p>
 
 ---
